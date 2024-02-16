@@ -13,7 +13,6 @@ namespace ConsoleApp8_1
             int gold;
             int crystals;
             int priceUnitCrystal = 10;
-            int remainingGold;
 
             Console.WriteLine("Добро пожаловать в наш магазин кристаллов.");
             Console.Write("Скажите, сколько у вас золота: ");
